@@ -6,4 +6,8 @@ html {
 #prueba{
   background-color:#114B5F;
 }
-  
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: white !important;
+}
