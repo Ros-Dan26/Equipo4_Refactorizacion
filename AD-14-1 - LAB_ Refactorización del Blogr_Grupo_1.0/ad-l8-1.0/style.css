@@ -1,5 +1,26 @@
 html {
     height: 100%;
     width: 100%;
-  }
-  
+}
+
+.header-bg {
+  background-image: url('https://img.freepik.com/vector-premium/fondo-abstracto-formas_311284-58.jpg');
+  background-position: center center;
+  background-repeat: no-repeat; 
+  background-size: 100% ;
+
+
+  /*color: #C6DABF;*/
+  color: #114B5F;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.header-text {
+  /*background-color: #114B5F;*/
+  width: 100%;
+}
