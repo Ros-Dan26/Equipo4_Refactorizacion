@@ -1,2 +1,2 @@
-# Equipo4_Refactorizacion
-Practica refactorizacion de blog
+# ad-l8
+AD-14-1 The Blog Site Refactor - Group
