@@ -38,37 +38,16 @@ html {
   text-decoration: underline;
 }
 
-/* Paleta personalizada Quienes somos*/
-.bg-midnight { background-color: #114B5F !important; }
-.bg-emerald { background-color: #1A936F !important; }
-.bg-granny { background-color: #88D498 !important; }
-.bg-tea { background-color: #C6DABF !important; }
-.bg-eggshell { background-color: #F3E9D2 !important; }
-
-.text-midnight { color: #114B5F !important; }
-.text-emerald { color: #1A936F !important; }
-.text-granny { color: #88D498 !important; }
-.text-tea { color: #C6DABF !important; }
-.text-eggshell { color: #F3E9D2 !important; }
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  background-color: #F3E9D2;
+.form-label{
+   background-color: #88d498;
+  padding: 5px;
+  border-radius: 4px;
+  display: inline-block;
 }
 
-#main-content {
-  min-height: 60vh;
+.container-fluid{
+  background-color: #c6dabf;
 }
-
-#ad-col, #news-col {
-  min-height: 400px;
-  font-size: 1.5rem;
-}
-
-footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
+#prueba{
+  background-color:#114B5F;
 }
